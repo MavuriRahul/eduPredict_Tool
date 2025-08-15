@@ -39,6 +39,3 @@ An AI-powered forecasting system developed to predict international student enro
 | **Aryanadh Chowdary Kommineni** | Power BI Dashboard Development |
 | **Venkata Chanakya Samsani**    | Data Collection & Cleaning     |
 | **Janani Ganji**                | Exploratory Data Analysis      |
-| **Uday Shankar Agasti**         | Time-Series Modeling           |
-| **Vamsi Krishna Jammigumpula**  | Model Evaluation & Tuning      |
-| **Satya Sai Sri Nikhil**        | Scenario Simulation, Testing   |
